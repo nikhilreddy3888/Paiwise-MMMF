@@ -5,4 +5,4 @@ Maximum Margin Matrix Factorization (MMMF) has been a successful learning method
 In this paper, we investigate this aspect of collaborative filtering and propose a framework of multiple bi-level MMMFs in a hierarchical manner. The previous approach was based on dividing points by line. We want to consider only the distance between every pair of points, maximizing distance ( not considering line division ).
 Then we compare our proposed method with HMF ,IB, SVD, PMF, MCoC, DsRec , PMMMF , Hern, SCC and TyCo with a benchmark 100k movielen dataset on measures on MAE.
 
-Implemented the code in MATLAB and python
+Implemented the code in MATLAB
